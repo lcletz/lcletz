@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi everyone !
+I'm Laura C, I'm a student in Statistics and Data Sciences.
+I'm currently working on my first Master degree's project, using for the first time a data base. I'm very enthusiastic(but anxious about deadlines)!
+Don't hesitate to reach me at my personal email adress : laura@cletz.fr
 
 <!--
 **lcletz/lcletz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
