@@ -1,5 +1,6 @@
-## Hi everyone !
+## Hi everyone!
 I'm Laura C, I'm a student in Statistics and Data Sciences.
+
 Until this day, I've worked on the interactive features of the website [Pédaler à Montpellier](https://elqemmahdoha.github.io/TEAM_PROJECT/) but will soon be working on another project as part of my studies.
 
 <!--
