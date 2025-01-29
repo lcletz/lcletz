@@ -1,7 +1,6 @@
 ## Hi everyone !
 I'm Laura C, I'm a student in Statistics and Data Sciences.
-I'm currently working on my first Master degree's project, using for the first time a data base. I'm very enthusiastic(but anxious about deadlines)!
-Don't hesitate to reach me at my personal email adress : laura@cletz.fr
+Until this day, I've worked on the interactive features of the website [Pédaler à Montpellier](https://elqemmahdoha.github.io/TEAM_PROJECT/) but will soon be working on another project as part of my studies.
 
 <!--
 **lcletz/lcletz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
