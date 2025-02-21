@@ -1,7 +1,7 @@
 ## Hi everyone!
 I'm Laura C, I'm a student in Statistics and Data Sciences.
 
-Until this day, I've worked on the interactive features of the website [Pédaler à Montpellier](https://elqemmahdoha.github.io/TEAM_PROJECT/) but will soon be working on another project as part of my studies.
+Until this day, I've worked on the interactive features of the website [Pédaler à Montpellier](https://elqemmahdoha.github.io/TEAM_PROJECT/) and I'm now studying conformal prediction to improve scoring in PlantNet mobile app, and creating a Takuzu game using R-Shiny also as part of my studies.
 
 <!--
 **lcletz/lcletz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
