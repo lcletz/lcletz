@@ -1,6 +1,6 @@
 ## Hi everyone!
 I'm Laura CLETZ, a French student in Statistics and Data Sciences. 
-I'm passionate about both applied and pure Mathematics, and hope that my studies will enable me to become a data analyst in the fields of Biology and Ecology, or even better, in Meteorological research!
+I'm passionate about both applied and pure Mathematics, and hope that my studies will enable me to become a data analyst in the fields of Biology and Ecology, or even better, in Meteorological or Psychiatric research! Well... anything I guess!
 Please, do not hesitate to contact me. 🥰
 
 Allow me to show you some of my work in chronological order!
@@ -13,3 +13,6 @@ As part of my studies, I had to fully master the R language. In this regard, as 
 
 🌿 **Conformal prediction and PlantNet** 🌿
 The work that I'm most proud of is certainly this [project](https://github.com/lcletz/PLANTNET_M1_SSD)! We studied a huge database of the PlantNet mobile application to apply conformal prediction and thus improve the app by displaying only the smallest set of labels (species) with 95% confidence that the correct species is shown. I worked mainly on descriptive statistics, but also on calculating the majority vote and processing the 7 mn datas so that my colleagues could calculate the scores and try out different calibration methods. Important information: I had two wonderful and serious coworkers and two really supportive supervisors!
+
+🚱 **Water contamination from former mine** 🚱
+My latest work is an 2-months internship where the codes are available [here](https://github.com/lcletz/PollutionEauxCarnoules). I had to explore a physico-chemicals' database in order to determine correlations and interactions between rainfall and chemicals found in the water near a former mine in Gard, France. The results will allow HydroSciences Montpellier to get an idea of how many samples a year they will need to monitor efficiently the site.
