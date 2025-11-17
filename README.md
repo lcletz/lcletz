@@ -1,5 +1,5 @@
 ## Hi everyone!
-I'm Laura CLETZ, a French student in Statistics and Data Sciences. 
+I'm Laura CLETZ, a French student in BioStatistics and Data Sciences. 
 I'm passionate about both applied and pure Mathematics, and hope that my studies will enable me to become a data analyst in the fields of Biology and Ecology, or even better, in Meteorological or Psychiatric research! Well... anything I guess!
 Please, do not hesitate to contact me. 🥰
 
